@@ -4,3 +4,4 @@ outputs/
 matlabdata/
 inputs/
 logged/
+*.icloud
